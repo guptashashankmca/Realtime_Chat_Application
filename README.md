@@ -22,12 +22,12 @@ ARCJET_ENV=development
 
 
 # RUN FOR BACKEND
-cd backend
-npm install
+cd backend <br>
+npm install <br>
 npm run dev
 
 
 # RUN FOR FRONTEND
-cd frontend
-npm install
+cd frontend <br>
+npm install <br>
 npm run dev
