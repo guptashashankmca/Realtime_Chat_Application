@@ -1,5 +1,5 @@
-#BACKEND
-<----------------------->
+# BACKEND
+
 PORT=3000
 MONGO_URI=your_mongo_uri_here
 
@@ -20,14 +20,14 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 ARCJET_KEY=your_arcjet_key
 ARCJET_ENV=development
 
+
 # RUN FOR BACKEND
-<------------------->
 cd backend
 npm install
 npm run dev
 
+
 # RUN FOR FRONTEND
-<-------------------->
 cd frontend
 npm install
 npm run dev
